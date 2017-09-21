@@ -4,5 +4,5 @@ $(document).ready(()=>{
     });
     setInterval(()=>{
         $('.carousel').carousel('next');
-    }, 1000);
+    }, 4000);
 })
