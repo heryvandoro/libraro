@@ -1,0 +1,9 @@
+TB. Books
+=========
+id
+title
+writer
+stock
+release_date
+cover
+description

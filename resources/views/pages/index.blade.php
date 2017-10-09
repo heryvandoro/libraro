@@ -1,7 +1,7 @@
 @extends("master.layout")
 
 @section("title")
-    Homepage
+    Home
 @endsection
 
 @section("content")
